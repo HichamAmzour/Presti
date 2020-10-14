@@ -1,0 +1,14 @@
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\bin\Debug\netcoreapp2.1\PrestiProject_WebAPI.deps.json
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\bin\Debug\netcoreapp2.1\PrestiProject_WebAPI.runtimeconfig.json
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\bin\Debug\netcoreapp2.1\PrestiProject_WebAPI.runtimeconfig.dev.json
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\bin\Debug\netcoreapp2.1\PrestiProject_WebAPI.dll
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\bin\Debug\netcoreapp2.1\PrestiProject_WebAPI.pdb
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\obj\Debug\netcoreapp2.1\PrestiProject_WebAPI.csprojAssemblyReference.cache
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\obj\Debug\netcoreapp2.1\PrestiProject_WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\obj\Debug\netcoreapp2.1\PrestiProject_WebAPI.RazorAssemblyInfo.cache
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\obj\Debug\netcoreapp2.1\PrestiProject_WebAPI.RazorAssemblyInfo.cs
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\obj\Debug\netcoreapp2.1\PrestiProject_WebAPI.AssemblyInfoInputs.cache
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\obj\Debug\netcoreapp2.1\PrestiProject_WebAPI.AssemblyInfo.cs
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\obj\Debug\netcoreapp2.1\PrestiProject_WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\obj\Debug\netcoreapp2.1\PrestiProject_WebAPI.dll
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_WebAPI\obj\Debug\netcoreapp2.1\PrestiProject_WebAPI.pdb

@@ -1,0 +1,12 @@
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_Models\obj\Debug\PrestiProject_Data.csprojAssemblyReference.cache
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_Models\obj\Debug\PrestiProject_Data.csproj.CoreCompileInputs.cache
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_Models\bin\Debug\PrestiProject_Models.dll
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_Models\bin\Debug\PrestiProject_Models.pdb
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_Models\obj\Debug\PrestiProject_Models.dll
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_Models\obj\Debug\PrestiProject_Models.pdb
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_Models\bin\Debug\PrestiProject_DataAccess.dll
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_Models\bin\Debug\Dapper.dll
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_Models\bin\Debug\PrestiProject_DataAccess.pdb
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_Models\bin\Debug\PrestiProject_DataAccess.dll.config
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_Models\bin\Debug\Dapper.xml
+C:\Users\aznza\OneDrive\Bureau\Presti_Project\PrestiProjectAPI\PrestiProject_Models\obj\Debug\PrestiProject_Data.csproj.CopyComplete
